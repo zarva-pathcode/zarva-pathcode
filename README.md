@@ -1,4 +1,4 @@
-# Hi, I'm Bintang Fadilah Ramadhan 👋
+# Hi, I'm Bintang 👋
 
 🚀 **Flutter Developer | UI/UX Enthusiast**  
 
